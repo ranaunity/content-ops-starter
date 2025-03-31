@@ -170,6 +170,14 @@ sections:
         style: primary
         elementId: ''
         type: Button
+      - type: Link
+        altText: Twitter
+        url: /
+        showIcon: true
+        icon: twitter
+        iconPosition: left
+        style: secondary
+        elementId: ''
     badge:
       label: This is a badge
       color: text-primary
