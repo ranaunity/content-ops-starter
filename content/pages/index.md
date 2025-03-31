@@ -64,10 +64,8 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >
-          ![](/images/Screenshot%202025-03-27%20at%207.54.07%E2%80%AFAM.png)Sed
-          ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-          doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.
+        text: |
+          ![](/images/Screenshot%202025-03-27%20at%207.54.07%E2%80%AFAM.png)
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
